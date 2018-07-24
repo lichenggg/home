@@ -16,7 +16,7 @@ body{
 
 #banner{
     margin: 0px;
-    padding: 0px 0px 47px 0px;
+    padding: 0px 0px 15px 0px;
     background-color:#444444;
     height: auto;
     width: 100%;
@@ -26,7 +26,7 @@ body{
 #banner img{
     display: block;
     height: 150px; 
-    margin: 20px 18% 0 18%;
+    margin: 20px 18% 0 12%;
     padding: 0px 0px 0px 0px;
     position: relative;
     background-color: #444444;
@@ -37,7 +37,7 @@ body{
 
 #banner h1{
     margin: 0px 0px;
-    padding: 40px 0px 30px 45%;
+    padding: 40px 0px 30px 40%;
     font-size: 40px;
     text-align: left;
     font-family:sans-serif;
@@ -49,7 +49,7 @@ body{
 #banner h2{
     height: auto;
     margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 45%;
+    padding: 0px 0px 0px 40%;
     font-size: 18px;
     font-family:sans-serif;
     color: white;
@@ -59,7 +59,7 @@ body{
 #banner h3{
     height: auto;
     margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 45%;
+    padding: 0px 0px 0px 40%;
     font-size: 18px;
     font-family:inherit;
     color: white;
