@@ -6,6 +6,13 @@ body{
     font-family:cursive;
 }
 
+
+#hr{
+    margin: 0px;
+    paddleing: 0px;
+    height:5px;
+}
+
 #container{
     margin: 0px auto;
     width:100%;
